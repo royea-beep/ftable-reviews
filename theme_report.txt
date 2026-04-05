@@ -1,0 +1,34 @@
+=== RUNNERRUNNER PORTAL THEME ANALYSIS ===
+Date: 2026-04-05
+
+CURRENT THEME (live at editor.ftable.co.il/delivery/runnerrunner):
+- Base background: custom dark gradient
+  bg-[linear-gradient(145deg,rgba(20,20,22,0.98),rgba(7,8,11,0.98))]
+  = near-black dark (#141416 → #07080B)
+- Overlay: amber/red radial gradients for depth
+- Accent color: bg-amber-300 (108 instances) = orange-gold (#FCD34D)
+- Text: zinc-500/zinc-300/zinc-200/amber-100/amber-200
+- Nav: amber-300 active state
+- Secondary accents: emerald-300, slate-300 for color coding
+
+OLD VERSION (7bdc771 = most recent commit, same as current):
+- 7bdc771 IS the current HEAD commit, not an old one
+- The portal has NEVER had a blue theme
+
+THEME HISTORY:
+- First portal commit: March 2026 — dark near-black from day 1
+- No blue/light theme exists in git history
+- "Visual overhaul" commit (1f2513c) added polish but kept dark theme
+- No Codex theme change detected
+
+COLOR PALETTE SUMMARY:
+  Background:  #141416 / #07080B (near-black gradient)
+  Primary:     amber-300 (#FCD34D) — the gold/orange accent
+  Secondary:   emerald-300 (green), slate-300 (gray), orange-300
+  Text:        zinc-100/200/300/400/500 (light gray scale)
+  Borders:     white/10 (subtle white borders)
+
+VERDICT:
+Portal is CONSISTENTLY DARK with AMBER-GOLD accents.
+There is no "blue version" or "Bing version" to compare against.
+The current design is the ONLY design that has ever existed.
